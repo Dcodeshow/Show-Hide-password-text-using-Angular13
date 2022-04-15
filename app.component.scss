@@ -1,0 +1,20 @@
+.form-group {
+    position: relative;
+    width: 250px;
+}
+
+.form-group input {
+    border: 1px solid #ddd;
+    height: 40px;
+    padding: 0 15px;
+    border-radius: 5px;
+    font-size: 15px;
+    width: 100%;
+}
+
+.eyeicon {
+    position: absolute;
+    right: -15px;
+    top: 10px;
+    cursor: pointer;
+}
